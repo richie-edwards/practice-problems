@@ -1,2 +1,2 @@
 # practice-problems
-An accumulation of several practice programming problems I've solved
+An accumulation of several programming practice problems I've solved
