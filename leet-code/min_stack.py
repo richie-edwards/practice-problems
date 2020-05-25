@@ -1,6 +1,8 @@
 """
-Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
-Methods pop, top and getMin operations will always be called on non-empty stacks.
+Design a stack that supports push, pop, top, and retrieving
+the minimum element in constant time.
+Methods pop, top and getMin operations will always
+be called on non-empty stacks.
 """
 
 
